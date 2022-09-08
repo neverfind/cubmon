@@ -1,0 +1,2 @@
+minecraft/mods/*.jar filter=lfs diff=lfs merge=lfs -text
+minecraft/resourcepacks/ThePixelmonOST.zip filter=lfs diff=lfs merge=lfs -text
